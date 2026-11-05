@@ -4,3 +4,8 @@ tier = 3
 description = "System tray sound and audio sink mixer indicator for PipeWire & PulseAudio"
 contracts = ['indicator-sound', 'tray-volume-slider', 'sink-switcher']
 upstream_inspirations = ['https://github.com/linuxmint/indicator-sound']
+
+[consolidation]
+canonical = "SigmaOS-indicator-sound"
+aliases = ["SigmaOS-indicator-sound2"]
+status = "consolidated"
